@@ -4,7 +4,7 @@ from calendar import firstweekday
 
 r = input("Enter radius: ")
 
-area = int(r) * 3.14
+area = int(r)**2 * 3.14
 
 print("Area: ", area)
 
